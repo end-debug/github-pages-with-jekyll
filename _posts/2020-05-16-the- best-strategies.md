@@ -1,5 +1,6 @@
------
-title: 'The-Best-Strategies'
+---
+layout: post
+title: "Te-Best-Strategies"
  date : 2020-05-16
  ----
 
