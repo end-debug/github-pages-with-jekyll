@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Te-Best-Strategies"
+title: THe-Best-Strategies
  date : 2020-05-16
  ----
 
