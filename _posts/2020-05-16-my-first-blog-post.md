@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Welcome to In The Shade Talks!
+title: " Welcome to In The Shade Talks! "
 date: 2020-05-16
 ---
 
